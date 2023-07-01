@@ -33,7 +33,7 @@ Team Name: CodeKar
 * [Jyotirmay Jain](https://github.com/jyotirmay27)
 * [Parth Mittal](https://github.com/Parthtrap)
 * [Varnika hotwani](https://github.com/Varnika-Hotwani)
-* [Abhinav Goel](https://github.com/abhinav2401)
+* [Aryman jain](https://github.com/Aryman24)
 
 
 
